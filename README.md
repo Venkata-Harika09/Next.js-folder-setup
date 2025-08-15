@@ -33,7 +33,7 @@ Make sure you have Node.js and npm (or yarn) installed.
 
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/wysiwyg-blog-editor.git
+git clone https://github.com/Venkata-Harika09/Next.js-folder-setup.git
 
 # Navigate to the project folder
 cd wysiwyg-blog-editor
